@@ -1,3 +1,10 @@
+<style>
+body {
+  background-color: #000;
+  color: #fff;
+}
+</style>
+
 # Summary
 
 * [node-express 筆記](README.md)

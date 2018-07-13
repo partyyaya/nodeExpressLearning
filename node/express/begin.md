@@ -2,7 +2,7 @@
 
 #### 安裝與開始
 - 安裝 Express ： npm install express --save
-- 建立 app.js ： 
+- 建立 app.js(router) ： 
 
 ```javascript
 //引入express

@@ -51,26 +51,26 @@ app.get('/',function(req,res){
                 - querystring.parse("name=henry&age=30") => { name: 'henry', age: '30' }
             - qs是一個querystring的庫，在qs的功能基礎上，支持更多的功能優化了一些安全性
             
-            ```
-            // 內建對象 querystring
-            querystring.parse("info[name]=henry&info[age]=30&hobby[1]=sport&hobby[2]=coding") => 
-            { 
-                'info[name]': 'henry',
-                'info[age]': '30',
-                'hobby[1]': 'sport',
-                'hobby[2]': 'coding'
-            }
+```
+// 內建對象 querystring
+querystring.parse("info[name]=henry&info[age]=30&hobby[1]=sport&hobby[2]=coding") => 
+{ 
+    'info[name]': 'henry',
+    'info[age]': '30',
+    'hobby[1]': 'sport',
+    'hobby[2]': 'coding'
+}
 
-            // 第三方插件 qs
-            qs.parse("info[name]=henry&info[age]=30&hobby[1]=sport&hobby[2]=coding") => 
-            {
-                info: {
-                name: 'henry',
-                age: '30'
-                },
-                hobby: [ 'sport', 'coding' ]
-            }
-            ```
+// 第三方插件 qs
+qs.parse("info[name]=henry&info[age]=30&hobby[1]=sport&hobby[2]=coding") => 
+{
+    info: {
+    name: 'henry',
+    age: '30'
+    },
+    hobby: [ 'sport', 'coding' ]
+}
+```
 - 建立 views資料夾
 - 在資料夾裡 建立 index.ejs :
 

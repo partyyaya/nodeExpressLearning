@@ -24,5 +24,5 @@
     ```
     - 說明 : 
 
-    <img src="./image/nodeVersionDescription.png" height="50%" width="70%">
+    <img src="./image/nodeVersionDescription.png" height="70%" width="100%">
 - 恭喜完成開始專案

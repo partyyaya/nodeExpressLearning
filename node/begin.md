@@ -25,6 +25,7 @@
     - 說明 : 
 
     <img src="./image/nodeVersionDescription.png" height="50%" width="100%">
+    
 - 恭喜完成開始專案
 
 #### express-generator

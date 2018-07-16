@@ -10,4 +10,5 @@
     * [ejs layout的使用](express/ejsLayout.md)
     * [ejs-form 的使用](express/ejsForm.md)
     * [ejs-ajax 的使用](express/ejsAjax.md)
+    * [route 的整理使用](express/routeArrange.md)
 * [參考資料](source.md)

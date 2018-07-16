@@ -24,6 +24,9 @@
     ```
     - 說明 : 
 
-<img src="./image/nodeVersionDescription.png" height="50%" width="100%">
-    
+    <img src="./image/nodeVersionDescription.png" height="50%" width="100%">
 - 恭喜完成開始專案
+
+#### express-generator
+- 用意 : 更加快速產生express專案
+- 請參考 express 官網 : http://expressjs.com/zh-tw/starter/generator.html

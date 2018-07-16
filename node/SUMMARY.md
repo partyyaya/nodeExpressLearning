@@ -8,6 +8,7 @@
     * [載入靜態檔案(image,css,js)](express/static.md)
     * [ejs 的使用](express/ejs.md)
     * [ejs layout的使用](express/ejsLayout.md)
+    * [ejs include的使用](express/ejsInclude.md)
     * [ejs-form 的使用](express/ejsForm.md)
     * [ejs-ajax 的使用](express/ejsAjax.md)
     * [route 的整理使用](express/routeArrange.md)

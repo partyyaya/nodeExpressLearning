@@ -24,6 +24,6 @@ http.createServer(function(require,response){
         - text/html : 網頁文本
     - 使用 response.write("hello world") 設定在網頁上想顯示的資料
     - 使用 console.log(content.title) 得到想要的資料
-- 執行 node call.js即可在終端機看到成果
+- 執行 node http.js即可在終端機看到成果
 
 
